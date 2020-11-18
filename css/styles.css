@@ -1,0 +1,118 @@
+body{
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: Merienda One;
+}
+h1{
+  font-size: 400%;
+  width: 25%;
+  margin: 0 auto 0 auto;
+  color: #66BFBF;
+  line-height: 2;
+    font-weight: normal;
+}
+.top-container p{
+  font-size: 1.5em;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.top-container{
+  background-color: #E4F5F9;
+  padding-top: 160px;
+  padding-bottom: 0px;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 50px;
+}
+.bottom-container a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.bottom-container a:hover{
+  color:white;
+}
+.copyright{
+  color:white;
+  font-size: 1em;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.upper{
+  position: absolute;
+  top: 60px;
+  right: 300px;
+}
+.intro
+{
+  width: 30%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.lower{
+  position: absolute;
+  bottom: 250px;
+  left: 300px;
+}
+a,h3{
+  color: #11999E;
+}
+h2{
+  color: #66BFBF;
+}
+.code-img{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.chili-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-message{
+  width: 47%;
+  margin: 40px auto 60px auto;
+}
+.btn {
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: 200;
+   padding: 10px;
+   background-color: #30E3CB;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #2BC4AD;
+   border: solid #2BC4AD 1px;
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+   text-decoration: none;
+}
